@@ -1,0 +1,13 @@
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MailAyrıştırma.exe.config
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MailAyrıştırma.exe
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MailAyrıştırma.pdb
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MetroFramework.Design.dll
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MetroFramework.dll
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.csprojAssemblyReference.cache
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.Form1.resources
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.Properties.Resources.resources
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.csproj.GenerateResource.cache
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.csproj.CopyComplete
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.exe
+C:\Users\can\source\repos\MailAyrıştırma\MailAyrıştırma\obj\Debug\MailAyrıştırma.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailAyrıştırma", "MailAyrıştırma\MailAyrıştırma.csproj", "{B492474E-8A44-4317-81A8-ECBC3A73B7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B492474E-8A44-4317-81A8-ECBC3A73B7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B492474E-8A44-4317-81A8-ECBC3A73B7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B492474E-8A44-4317-81A8-ECBC3A73B7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B492474E-8A44-4317-81A8-ECBC3A73B7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {286914EF-B164-49BC-88BC-BC0792448A0F}
+	EndGlobalSection
+EndGlobal
